@@ -8,7 +8,7 @@ on:
 
 jobs:
   test:
-    name: Run JavaScript Tests
+    name: Run JavaSc ript Tests
     runs-on: ubuntu-latest
     
     steps:
