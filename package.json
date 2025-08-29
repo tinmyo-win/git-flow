@@ -1,0 +1,13 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "description": "Simple JavaScript project with git-flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
