@@ -7,5 +7,7 @@ console.log('The result of 2 * 3 is: ' + multiply(2, 3));
 
 module.exports = {
   add,
+  
   multiply
+
 };
