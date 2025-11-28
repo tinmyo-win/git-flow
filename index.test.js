@@ -8,6 +8,7 @@ describe('Math operations', () => {
       expect(add(10, 10)).toBe(20);
     });
 
+    // update in other file
     test('should handle negative numbers', () => {
       expect(add(-2, 3)).toBe(1);
       expect(add(2, -3)).toBe(-1);
